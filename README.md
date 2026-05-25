@@ -134,7 +134,7 @@ Ethics & safety      →   Agents in your job   →   Staying current
 | Mon | System prompts that actually work | 🛠️ Practice | [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) · [The Prompt Report (arxiv)](https://arxiv.org/abs/2406.06608) |
 | Tue | Structured output: JSON, tables, lists | 🛠️ Practice | [Anthropic Structured Output Guide](https://docs.anthropic.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency) · [OpenAI Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs) |
 | Wed | Prompt testing and evaluation | 🔨 Build | [PromptFoo — Prompt Testing Tool](https://promptfoo.dev/) · [Anthropic Evals Guide](https://docs.anthropic.com/en/docs/test-and-evaluate/eval-tool) |
-| Thu | Role-playing and persona prompts | 🛠️ Practice | [Prompting Guide — Role Prompting](https://www.promptingguide.ai/techniques/prompt-roles) · *Compare outputs with and without persona injection* |
+| Thu | Role-playing and persona prompts | 🛠️ Practice | [Prompting Guide — Role Prompting](https://learnprompting.org/docs/basics/roles) · *Compare outputs with and without persona injection* |
 | Fri | Build your personal prompt library | 🔨 Build | [Notion Prompt Library Template](https://www.notion.so/templates/ai-prompt-library) · [Awesome ChatGPT Prompts (GitHub)](https://github.com/f/awesome-chatgpt-prompts) |
 
 ---
