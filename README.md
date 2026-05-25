@@ -285,7 +285,7 @@ Ethics & safety      →   Agents in your job   →   Staying current
 |---|---|---|
 | The Batch | Weekly newsletter | [deeplearning.ai/the-batch](https://www.deeplearning.ai/the-batch/) |
 | Import AI | Weekly newsletter | [jack-clark.net](https://jack-clark.net/) |
-| Ben's Bites | Daily AI news | [bensbites.beehiiv.com](https://bensbites.beehiiv.com/) |
+| Ben's Bites | Daily AI news | [bensbites.com](https://www.bensbites.com/) |
 | TLDR AI | Daily digest | [tldr.tech/ai](https://tldr.tech/ai) |
 | Hugging Face Discord | Community | [discord.com](https://discord.com/invite/hugging-face-879548962464493619) |
 | r/MachineLearning | Reddit community | [reddit.com/r/MachineLearning](https://www.reddit.com/r/MachineLearning/) |
