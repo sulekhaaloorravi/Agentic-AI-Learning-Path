@@ -222,8 +222,8 @@ Ethics & safety      →   Agents in your job   →   Staying current
 | Day | Activity | Format | Resources |
 |---|---|---|---|
 | Mon | Capstone: document your 90-day journey | 🔨 Build | *Write a 2-page "what I built and what I learned" doc. Include screenshots and metrics.* |
-| Tue | Build your AI news diet | 🛠️ Practice | [The Batch (DeepLearning.AI)](https://www.deeplearning.ai/the-batch/) · [Import AI (Jack Clark)](https://jack-clark.net/) · [Ben's Bites](https://bensbites.beehiiv.com/) |
-| Wed | Join a community | 🎓 Workshop | [Hugging Face Discord](https://discord.com/invite/hugging-face-879548962464493619) · [AI Alignment Forum](https://www.alignmentforum.org/) · [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) |
+| Tue | Build your AI news diet | 🛠️ Practice | [The Batch (DeepLearning.AI)](https://www.deeplearning.ai/the-batch/) · [Import AI (Jack Clark)](https://jack-clark.net/) · [Ben's Bites](https://www.bensbites.com/) |
+| Wed | Join a community | 🎓 Workshop | [Hugging Face Discord](https://discord.com/invite/hugging-face-879548962464493619) · [AI Alignment Forum](https://www.alignmentforum.org/) |
 | Thu | Design your next 90-day plan | 💭 Reflect | *What's your next skill? Python for agents? LLMOps? Voice agents? Write a new curriculum.* |
 | Fri | Celebrate & share your capstone | 🎓 Workshop | *Post your 90-day journey on LinkedIn or your internal wiki. You earned it. 🎉* |
 
