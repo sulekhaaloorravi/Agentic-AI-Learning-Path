@@ -254,7 +254,7 @@ Ethics & safety      →   Agents in your job   →   Staying current
 | The Prompt Report | Academic survey | [arxiv.org/abs/2406.06608](https://arxiv.org/abs/2406.06608) |
 | ReAct: Synergizing Reasoning and Acting | Paper | [arxiv.org/abs/2210.03629](https://arxiv.org/abs/2210.03629) |
 | Cognitive Architectures for Language Agents | Paper | [arxiv.org/abs/2309.02427](https://arxiv.org/abs/2309.02427) |
-| Anthropic's Model Spec | Documentation | [anthropic.com/news/model-spec](https://www.anthropic.com/news/model-spec) |
+| Anthropic's Model Spec | Documentation | [anthropic.com/news/model-spec](https://www.anthropic.com/news/claude-new-constitution) |
 | Promptingguide.ai | Reference guide | [promptingguide.ai](https://www.promptingguide.ai/) |
 
 ---
