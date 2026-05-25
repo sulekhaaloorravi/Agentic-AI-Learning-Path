@@ -98,7 +98,7 @@ Ethics & safety      →   Agents in your job   →   Staying current
 | Day | Activity | Format | Resources |
 |---|---|---|---|
 | Mon | AI bias and fairness | 📖 Read | [Algorithmic Justice League](https://www.ajl.org/learn-more) · [Google PAIR Explorables](https://pair.withgoogle.com/explorables/) |
-| Tue | Data privacy and AI | 📖 Read | [PDPA Overview (Singapore PDPC)](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) · [GDPR & AI (EU)](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence) |
+| Tue | Data privacy and AI | 📖 Read | [GDPR & AI (EU)](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence) |
 | Wed | Human-in-the-loop design | 📺 Watch | [Human-in-the-Loop ML (YouTube)](https://www.youtube.com/watch?v=YsN3X7qrRXA) · [PAIR Guide to Human-AI Interaction](https://pair.withgoogle.com/guidebook/) |
 | Thu | Responsible AI frameworks | 📖 Read | [Anthropic's Model Spec](https://www.anthropic.com/news/model-spec) · [Microsoft Responsible AI Principles](https://www.microsoft.com/en-us/ai/principles-and-approach) · [Google PAIR Guidelines](https://pair.withgoogle.com/) |
 | Fri | Phase 1 capstone: your AI manifesto | 💭 Reflect | *Write a 1-page personal statement: what you believe about using AI responsibly at work. Keep it for Day 90.* |
