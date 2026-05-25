@@ -55,7 +55,7 @@ Ethics & safety      →   Agents in your job   →   Staying current
 
 | Day | Activity | Format | Resources |
 |---|---|---|---|
-| Mon | The AI landscape in 2025 | 📺 Watch | [AI Explained — The State of AI (YouTube)](https://www.youtube.com/c/AIExplained-Official) · [Andrej Karpathy: Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) |
+| Mon | The AI landscape in 2025 | 📺 Watch | [AI Explained — The State of AI (YouTube)](https://www.youtube.com/@aiexplained-official) · [Andrej Karpathy: Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) |
 | Tue | Chatbots vs. agents — what's the difference? | 📖 Read | [What are AI Agents? (IBM)](https://www.ibm.com/think/topics/ai-agents) · [Agents vs. Chatbots (Zapier Blog)](https://zapier.com/blog/ai-agent/) |
 | Wed | Real-world agent demos | 📺 Watch | [Devin AI demo (Cognition)](https://www.youtube.com/watch?v=fjHtjT7GO1c) · [AutoGPT demo walkthrough](https://www.youtube.com/watch?v=_rh_dOBFasg) · [Claude computer use demo](https://www.youtube.com/watch?v=ODaHJzOyVCQ) |
 | Thu | Core components: perception, memory, tools, action | 📖 Read | [LLM Powered Autonomous Agents (Lilian Weng)](https://lilianweng.github.io/posts/2023-06-23-agent/) |
@@ -86,7 +86,7 @@ Ethics & safety      →   Agents in your job   →   Staying current
 | Mon | Types of agent memory | 📖 Read | [Memory in LLM Agents (Lilian Weng)](https://lilianweng.github.io/posts/2023-06-23-agent/#memory) · [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427) |
 | Tue | Function calling & tool use | 📖 Read | [Anthropic Tool Use Docs](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) · [OpenAI Function Calling Guide](https://platform.openai.com/docs/guides/function-calling) |
 | Wed | RAG: retrieval-augmented generation | 📺 Watch | [RAG Explained in 5 Minutes (YouTube)](https://www.youtube.com/watch?v=T-D1OfcDW1M) · [DeepLearning.AI — Building RAG systems](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) |
-| Thu | Popular frameworks overview | 📖 Read | [LangChain Docs](https://python.langchain.com/docs/introduction/) · [AutoGen Docs (Microsoft)](https://microsoft.github.io/autogen/) · [CrewAI Docs](https://docs.crewai.com/) · [Claude API Overview](https://docs.anthropic.com/en/docs/intro-to-claude) |
+| Thu | Popular frameworks overview | 📖 Read | [LangChain Docs](https://python.langchain.com/docs/introduction/) · [AutoGen Docs (Microsoft)](https://microsoft.github.io/autogen/) · [Microsoft Agent Framework (AutoGen successor)](https://learn.microsoft.com/en-us/agent-framework/overview/) · [CrewAI Docs](https://docs.crewai.com/) · [Claude API Overview](https://docs.anthropic.com/en/docs/intro) |
 | Fri | Map your workplace to the agent stack | 💭 Reflect | *List 3 tools your team uses daily. Which expose an API? What could an agent do with each?* |
 
 ---
@@ -118,7 +118,7 @@ Ethics & safety      →   Agents in your job   →   Staying current
 | Day | Activity | Format | Resources |
 |---|---|---|---|
 | Mon | Intro to n8n / Make / Zapier for agents | 🛠️ Practice | [n8n Quickstart](https://docs.n8n.io/try-it-out/) · [Make.com Academy](https://academy.make.com/) · [Zapier Learn](https://learn.zapier.com/) |
-| Tue | Build: email summariser agent | 🔨 Build | [n8n + OpenAI Email Summary Template](https://n8n.io/workflows/1759-summarize-emails-with-openai/) · [Make Email + AI Workflow](https://www.make.com/en/templates) |
+| Tue | Build: email summariser agent | 🔨 Build | [n8n + OpenAI Email Summary Template](https://n8n.io/workflows/2722-email-summary-agent/) · [Make Email + AI Workflow](https://www.make.com/en/templates) |
 | Wed | Build: meeting notes agent | 🔨 Build | [Notion AI Integration](https://www.notion.so/help/notion-ai) · [Zapier + Claude Integration](https://zapier.com/apps/claude-ai/integrations) |
 | Thu | Debug your workflows | 🛠️ Practice | [n8n Debugging Guide](https://docs.n8n.io/courses/level-two/chapter-1/) · *Intentionally break and fix your agents. Learn what error messages mean.* |
 | Fri | Share with a teammate | 🎓 Workshop | *Demo your workflow to one colleague. Note their questions and confusion points. Iterate.* |
@@ -145,7 +145,7 @@ Ethics & safety      →   Agents in your job   →   Staying current
 
 | Day | Activity | Format | Resources |
 |---|---|---|---|
-| Mon | Why one agent isn't enough | 📖 Read | [Multi-Agent Systems Overview (Anthropic)](https://www.anthropic.com/research/building-effective-agents) · [AutoGen Paper](https://arxiv.org/abs/2308.08155) |
+| Mon | Why one agent isn't enough | 📖 Read | [Multi-Agent Systems Overview (Anthropic)](https://www.anthropic.com/research/building-effective-agents) · [AutoGen Paper](https://arxiv.org/abs/2308.08155) · [Microsoft Agent Framework (AutoGen successor)](https://learn.microsoft.com/en-us/agent-framework/overview/) |
 | Tue | CrewAI tutorial (beginner) | 🔨 Build | [CrewAI Quickstart](https://docs.crewai.com/introduction) · [CrewAI YouTube Tutorial](https://www.youtube.com/watch?v=tnejrr-0a94) |
 | Wed | Agent handoffs and shared context | 🛠️ Practice | [CrewAI — Process Flows](https://docs.crewai.com/concepts/processes) · [LangGraph Intro](https://langchain-ai.github.io/langgraph/) |
 | Thu | Build: 2-agent research pipeline | 🔨 Build | [CrewAI Research + Writer Example](https://github.com/crewAIInc/crewAI-examples) · Use your own topic of interest |
@@ -193,9 +193,9 @@ Ethics & safety      →   Agents in your job   →   Staying current
 
 | Day | Activity | Format | Resources |
 |---|---|---|---|
-| Mon | Building a RAG pipeline | 🔨 Build | [DeepLearning.AI — Building RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) · [Chroma DB Quickstart](https://docs.trychroma.com/getting-started) |
+| Mon | Building a RAG pipeline | 🔨 Build | [DeepLearning.AI — Building RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) · [Chroma DB Quickstart](https://docs.trychroma.com/docs/overview/introduction) |
 | Tue | Persistent memory strategies | 📖 Read | [MemGPT Paper](https://arxiv.org/abs/2310.08560) · [Zep Memory Layer](https://docs.getzep.com/) |
-| Wed | When to fine-tune vs. prompt | 📖 Read | [OpenAI Fine-Tuning Guide](https://platform.openai.com/docs/guides/fine-tuning) · [Anthropic: When to Fine-Tune](https://docs.anthropic.com/en/docs/build-with-claude/fine-tuning) |
+| Wed | When to fine-tune vs. prompt | 📖 Read | [OpenAI Fine-Tuning Guide](https://platform.openai.com/docs/guides/fine-tuning) · [Claude Fine-Tuning via AWS Bedrock](https://aws.amazon.com/blogs/machine-learning/fine-tune-anthropic-claude-3-haiku-in-amazon-bedrock/) |
 | Thu | Intro to fine-tuning (hands-on) | 🛠️ Practice | [OpenAI Fine-Tuning Tutorial](https://platform.openai.com/docs/guides/fine-tuning/create-a-fine-tuned-model) · [Hugging Face PEFT Guide](https://huggingface.co/docs/peft/index) |
 | Fri | Reflect: what's still beyond you? | 💭 Reflect | *List 5 things you'd need a developer's help to build. This is your collaboration map.* |
 
@@ -237,7 +237,7 @@ Ethics & safety      →   Agents in your job   →   Staying current
 |---|---|---|---|
 | Short courses on Agentic AI | DeepLearning.AI | Beginner–Intermediate | [deeplearning.ai/short-courses](https://www.deeplearning.ai/short-courses/) |
 | Generative AI for Everyone | Coursera / DeepLearning.AI | Beginner | [coursera.org](https://www.coursera.org/learn/generative-ai-for-everyone) |
-| Introduction to AI with Python | Harvard CS50 | Beginner | [cs50.harvard.edu/ai](https://cs50.harvard.edu/ai/2024/) |
+| Introduction to AI with Python | Harvard CS50 | Beginner | [cs50.harvard.edu/ai](https://cs50.harvard.edu/ai/) |
 | Prompt Engineering for Developers | DeepLearning.AI | Intermediate | [deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
 | Building Agentic RAG with LlamaIndex | DeepLearning.AI | Intermediate | [deeplearning.ai](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) |
 | Multi AI Agent Systems with CrewAI | DeepLearning.AI | Intermediate | [deeplearning.ai](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) |
@@ -271,7 +271,8 @@ Ethics & safety      →   Agents in your job   →   Staying current
 | CrewAI | Multi-agent framework | [docs.crewai.com](https://docs.crewai.com) |
 | LangChain | Agent framework | [python.langchain.com](https://python.langchain.com) |
 | LangGraph | Agent orchestration | [langchain-ai.github.io/langgraph](https://langchain-ai.github.io/langgraph/) |
-| AutoGen (Microsoft) | Multi-agent framework | [microsoft.github.io/autogen](https://microsoft.github.io/autogen/) |
+| AutoGen (Microsoft) | Multi-agent framework (maintenance mode) | [microsoft.github.io/autogen](https://microsoft.github.io/autogen/) |
+| Microsoft Agent Framework | AutoGen successor (production-ready) | [learn.microsoft.com/en-us/agent-framework](https://learn.microsoft.com/en-us/agent-framework/overview/) |
 | PromptFoo | Prompt testing | [promptfoo.dev](https://promptfoo.dev) |
 | Chroma DB | Vector database | [trychroma.com](https://www.trychroma.com) |
 | Hugging Face | Models & datasets | [huggingface.co](https://huggingface.co) |
@@ -342,4 +343,4 @@ This curriculum is open-source under the [MIT License](LICENSE). Use it, adapt i
 
 ---
 
-*Curriculum last updated: May 2026. AI moves fast — if you spot an outdated link, please open an issue.*
+*Curriculum last updated: May 2026. Links verified May 2026 — AI moves fast, if you spot an outdated link, please open an issue.*
