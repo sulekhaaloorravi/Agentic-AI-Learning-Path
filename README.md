@@ -119,7 +119,7 @@ Ethics & safety      →   Agents in your job   →   Staying current
 |---|---|---|---|
 | Mon | Intro to n8n / Make / Zapier for agents | 🛠️ Practice | [n8n Quickstart](https://docs.n8n.io/try-it-out/) · [Make.com Academy](https://academy.make.com/) · [Zapier Learn](https://learn.zapier.com/) |
 | Tue | Build: email summariser agent | 🔨 Build | [n8n + OpenAI Email Summary Template](https://n8n.io/workflows/2722-email-summary-agent/) · [Make Email + AI Workflow](https://www.make.com/en/templates) |
-| Wed | Build: meeting notes agent | 🔨 Build | [Notion AI Integration](https://www.notion.so/help/notion-ai) · [Zapier + Claude Integration](https://zapier.com/apps/claude-ai/integrations) |
+| Wed | Build: meeting notes agent | 🔨 Build | [Notion AI Integration](https://www.notion.com/help/notion-ai-faqs) · [Zapier + Claude Integration](https://zapier.com/apps/anthropic-claude/integrations) |
 | Thu | Debug your workflows | 🛠️ Practice | [n8n Debugging Guide](https://docs.n8n.io/courses/level-two/chapter-1/) · *Intentionally break and fix your agents. Learn what error messages mean.* |
 | Fri | Share with a teammate | 🎓 Workshop | *Demo your workflow to one colleague. Note their questions and confusion points. Iterate.* |
 
