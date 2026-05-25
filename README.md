@@ -195,8 +195,8 @@ Ethics & safety      →   Agents in your job   →   Staying current
 |---|---|---|---|
 | Mon | Building a RAG pipeline | 🔨 Build | [DeepLearning.AI — Building RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) · [Chroma DB Quickstart](https://docs.trychroma.com/docs/overview/introduction) |
 | Tue | Persistent memory strategies | 📖 Read | [MemGPT Paper](https://arxiv.org/abs/2310.08560) · [Zep Memory Layer](https://docs.getzep.com/) |
-| Wed | When to fine-tune vs. prompt | 📖 Read | [OpenAI Fine-Tuning Guide](https://platform.openai.com/docs/guides/fine-tuning) · [Claude Fine-Tuning via AWS Bedrock](https://aws.amazon.com/blogs/machine-learning/fine-tune-anthropic-claude-3-haiku-in-amazon-bedrock/) |
-| Thu | Intro to fine-tuning (hands-on) | 🛠️ Practice | [OpenAI Fine-Tuning Tutorial](https://platform.openai.com/docs/guides/fine-tuning/create-a-fine-tuned-model) · [Hugging Face PEFT Guide](https://huggingface.co/docs/peft/index) |
+| Wed | When to fine-tune vs. prompt | 📖 Read | [OpenAI Fine-Tuning Guide](https://platform.openai.com/docs/guides/fine-tuning) · [Claude Fine-Tuning via AWS Bedrock](https://aws.amazon.com/blogs/machine-learning/fine-tune-anthropics-claude-3-haiku-in-amazon-bedrock-to-boost-model-accuracy-and-quality/) |
+| Thu | Intro to fine-tuning (hands-on) | 🛠️ Practice | [OpenAI Fine-Tuning Tutorial](https://platform.openai.com/docs/guides/supervised-fine-tuning) · [Hugging Face PEFT Guide](https://huggingface.co/docs/peft/index) |
 | Fri | Reflect: what's still beyond you? | 💭 Reflect | *List 5 things you'd need a developer's help to build. This is your collaboration map.* |
 
 ---
